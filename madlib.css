@@ -1,0 +1,12 @@
+div{
+    font-size: 4rem;
+}
+span{
+    text-decoration: underline;
+}
+span:hover{
+    cursor: pointer;
+    background: black;
+    color: white;
+    text-decoration: none;
+}
